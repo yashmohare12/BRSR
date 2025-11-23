@@ -569,19 +569,7 @@ Per Unit Produced:       0.15 tonnes CO₂e
 ✅ **Accessibility**: Easy-to-understand outputs  
 
 ---
-
-## Support & Resources
-
-### Documentation
-- User Guide (detailed step-by-step instructions)
-- API Documentation (for integrations)
-- FAQ (common questions and issues)
-
-### Contact
-- Email: support@brsrcalculator.com
-- GitHub: github.com/yourproject/brsr-calculator
-
----
+<img width="1245" height="695" alt="image" src="https://github.com/user-attachments/assets/52dfcca8-98f8-4f45-8e1d-5dd2992b85f2" />
 
 
 
@@ -592,7 +580,8 @@ Per Unit Produced:       0.15 tonnes CO₂e
 
 
 
-[METHODOLOGY.md.pdf](https://github.com/user-attachments/files/23693239/METHODOLOGY.md.pdf)
+
+
 
 
 
