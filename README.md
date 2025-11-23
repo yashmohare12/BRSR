@@ -4,7 +4,7 @@
 The new SEBI BRSR mandate requires mandatory GHG emissions data For 50M+
 Indian MSMEs, manual calculation is complex, error-prone, and too expensive.
 
-Abstract : SEBI has mandated that the top 500
+Abstract : SEBI has mandated that the top 1000
 listed companies disclose their carbon footprint
 and sustainability data in compliance with the
 Business Responsibility and Sustainability
